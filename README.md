@@ -1,10 +1,10 @@
 # EBU6305
 # Group Number
-# Project Title:Sony LonkBuds
+# Project Title:Sony LinkBuds
 # MEMBERS
 Qingwei Gao, 2019213156, 190897778, jp2019213156@qmul.ac.uk
 
-# Assigned TA Yiming Zhou
+# Assigned TA：Yiming Zhou
 
 
 助教老师您好，很抱歉打扰您。
