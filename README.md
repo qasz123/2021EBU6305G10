@@ -1,7 +1,10 @@
-# Group10
-The gruop 10 coursework of  Interactive Media Design and Production 
-In version1,
-We mainly do the navigation of each page and the basic content of each page.
+# EBU6305
+# Group Number
+# Project Title:Sony LonkBuds
+# MEMBERS
+Qingwei Gao, 2019213156, 190897778, jp2019213156@qmul.ac.uk
+
+# Assigned TA Yiming Zhou
 
 
 助教老师您好，很抱歉打扰您。
