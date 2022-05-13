@@ -1,9 +1,9 @@
 # EBU6305
-# Group Number
+# Group Number：2021EBU6305G10
 # Project Title:Sony LinkBuds
 # MEMBERS
 Qingwei Gao, 2019213156, 190897778, jp2019213156@qmul.ac.uk
-Zongkia Tong, 2019213086, 190899244, jp2019213086@qmul.ac.uk
+<br>Zongkia Tong, 2019213086, 190899244, jp2019213086@qmul.ac.uk
 # Assigned TA：Yiming Zhou
 
 
